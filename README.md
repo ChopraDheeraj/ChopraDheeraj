@@ -1,9 +1,13 @@
 <h1 align="center">Hey What's up?</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chopradheeraj&label=Profile%20views&color=0e75b6&style=flat" alt="chopradheeraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chopradheeraj" alt="chopradheeraj" /></a> </p>
-
 - 📚 I'm currently building full-stack projects with **Java, SpringBoot, MySQL**
+
+- ⚡ Fun fact [I'm a passionate basketball enthusiast, often found shooting hoops on the court. The combination of strategy and teamwork in basketball aligns closely with how I tackle problem-solving in software development. 🔥🏀](I'm a passionate basketball enthusiast, often found shooting hoops on the court. The combination of strategy and teamwork in basketball aligns closely with how I tackle problem-solving in software development. 🔥🏀)
+
+- 🌱 I’m currently learning **SpringBoot**
+
+- 📫 How to reach me **chopradheeraj11@gmail.com**
+
+- 🌟 Looking for Opportunities [I'm actively seeking fresh opportunities as a software developer. If you think I'd be a good fit for your team, please don't hesitate to reach out.](I'm actively seeking fresh opportunities as a software developer. If you think I'd be a good fit for your team, please don't hesitate to reach out.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chopradheeraj&show_icons=true&locale=en&layout=compact" alt="chopradheeraj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chopradheeraj&show_icons=true&locale=en" alt="chopradheeraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chopradheeraj&" alt="chopradheeraj" /></p>
