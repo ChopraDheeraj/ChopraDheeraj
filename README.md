@@ -39,10 +39,3 @@
 
 ###
 
-<h2 align="left">My Coding Profiles</h2>
-
-###
-
-<p align="left">
-<a href="https://leetcode.com/chopradheeraj11/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="https://leetcode.com/princeattri/" height="30" width="30" /></a>
-</p>
